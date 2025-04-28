@@ -1,0 +1,6181 @@
+[
+  {
+    "station": "KAKI BUKIT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.909146276263,
+      1.33492189034272
+    ]
+  },
+  {
+    "station": "BEDOK RESERVOIR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.933487189855,
+      1.33655490332863
+    ]
+  },
+  {
+    "station": "BENCOOLEN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.849271703873,
+      1.29769911765443
+    ]
+  },
+  {
+    "station": "BENCOOLEN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.850843384717,
+      1.29919519603019
+    ]
+  },
+  {
+    "station": "KAKI BUKIT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.909405098626,
+      1.33531120636956
+    ]
+  },
+  {
+    "station": "TAMPINES WEST MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.938948503782,
+      1.34499919751448
+    ]
+  },
+  {
+    "station": "JALAN BESAR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.855296125414,
+      1.30488989412929
+    ]
+  },
+  {
+    "station": "BENDEMEER MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.863074005937,
+      1.31385250562225
+    ]
+  },
+  {
+    "station": "BEDOK NORTH MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.917810526029,
+      1.33442257655151
+    ]
+  },
+  {
+    "station": "UPPER CHANGI MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.961043080709,
+      1.34084047406433
+    ]
+  },
+  {
+    "station": "GEYLANG BAHRU MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.871794271427,
+      1.32110911579532
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.943678182032,
+      1.35487057481792
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.942723496695,
+      1.35459633872811
+    ]
+  },
+  {
+    "station": "BEDOK RESERVOIR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.932886822506,
+      1.33634776089978
+    ]
+  },
+  {
+    "station": "SENJA LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.762325766572,
+      1.3828754471752
+    ]
+  },
+  {
+    "station": "YISHUN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.834865533461,
+      1.42963629191008
+    ]
+  },
+  {
+    "station": "YISHUN MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.835643654933,
+      1.42966559716462
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.872866695396,
+      1.35079019941389
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.873641321904,
+      1.34983373825613
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.872902116341,
+      1.3508202454304
+    ]
+  },
+  {
+    "station": "TAI SENG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.887627437262,
+      1.33591408492645
+    ]
+  },
+  {
+    "station": "EUNOS MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.903215186978,
+      1.31952991880127
+    ]
+  },
+  {
+    "station": "SEMBAWANG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.819758966004,
+      1.44915683716069
+    ]
+  },
+  {
+    "station": "HOUGANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.892972400972,
+      1.37194611655273
+    ]
+  },
+  {
+    "station": "CHANGI AIRPORT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.989276642414,
+      1.3563414210048
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 8",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.838117129674,
+      1.28232163095245
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 7",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.838640195189,
+      1.2810220177189
+    ]
+  },
+  {
+    "station": "MAXWELL MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.842916305543,
+      1.28019152238094
+    ]
+  },
+  {
+    "station": "MAXWELL MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.844164413475,
+      1.28103425526259
+    ]
+  },
+  {
+    "station": "MAXWELL MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.844895459262,
+      1.28091943659091
+    ]
+  },
+  {
+    "station": "SHENTON WAY MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.851835707382,
+      1.27746205833565
+    ]
+  },
+  {
+    "station": "SHENTON WAY MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.851807978051,
+      1.2771436461189
+    ]
+  },
+  {
+    "station": "SHENTON WAY MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.851034086049,
+      1.27765594176983
+    ]
+  },
+  {
+    "station": "SHENTON WAY MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.850915094628,
+      1.27700305442423
+    ]
+  },
+  {
+    "station": "SHENTON WAY MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.850128771071,
+      1.27762958112669
+    ]
+  },
+  {
+    "station": "SHENTON WAY MRT STATION",
+    "exist": "Exit 6",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.849893223277,
+      1.27792920509497
+    ]
+  },
+  {
+    "station": "MARINA BAY MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "North South Line",
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.854470032954,
+      1.27735303297793
+    ]
+  },
+  {
+    "station": "MARINA BAY MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "North South Line",
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.854319501956,
+      1.27469326445441
+    ]
+  },
+  {
+    "station": "MARINA BAY MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "North South Line",
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.856488836263,
+      1.27363420910955
+    ]
+  },
+  {
+    "station": "MARINA BAY MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "North South Line",
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.85537174149,
+      1.27541636589719
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 11",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.830496723547,
+      1.30421797905404
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 10",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.831126574248,
+      1.30404570543486
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 9",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.831506861841,
+      1.30366551621641
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 8",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.83178613556,
+      1.30344571958931
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 13",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832124829631,
+      1.30229921132352
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832023815157,
+      1.30394471745993
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 6",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832320915154,
+      1.30364769526593
+    ]
+  },
+  {
+    "station": "STEVENS MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Downtown Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.826322577145,
+      1.32093774341441
+    ]
+  },
+  {
+    "station": "STEVENS MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Downtown Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.825882869659,
+      1.32151990425561
+    ]
+  },
+  {
+    "station": "STEVENS MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Downtown Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.825728378177,
+      1.31995163510642
+    ]
+  },
+  {
+    "station": "STEVENS MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Downtown Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.826013593581,
+      1.31882889618825
+    ]
+  },
+  {
+    "station": "STEVENS MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Downtown Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.824991570643,
+      1.31947046099515
+    ]
+  },
+  {
+    "station": "HAVELOCK MRT STATION",
+    "exist": "Exit 1",
+    "line": [],
+    "coordinates": [
+      103.833839753358,
+      1.28667674481792
+    ]
+  },
+  {
+    "station": "HAVELOCK MRT STATION",
+    "exist": "Exit 2",
+    "line": [],
+    "coordinates": [
+      103.833495118232,
+      1.28694406698765
+    ]
+  },
+  {
+    "station": "HAVELOCK MRT STATION",
+    "exist": "Exit 5",
+    "line": [],
+    "coordinates": [
+      103.833961901637,
+      1.28956096428231
+    ]
+  },
+  {
+    "station": "HAVELOCK MRT STATION",
+    "exist": "Exit 4",
+    "line": [],
+    "coordinates": [
+      103.834003496172,
+      1.29016689416429
+    ]
+  },
+  {
+    "station": "CITY HALL MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851802333809,
+      1.29345482595132
+    ]
+  },
+  {
+    "station": "SOO TECK LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.897029921817,
+      1.40501492486707
+    ]
+  },
+  {
+    "station": "SOO TECK LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.897408572121,
+      1.40524489949914
+    ]
+  },
+  {
+    "station": "DAMAI LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.908792226992,
+      1.40528461343374
+    ]
+  },
+  {
+    "station": "MARINA BAY MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "North South Line",
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.85500333792,
+      1.27615893131623
+    ]
+  },
+  {
+    "station": "GARDENS BY THE BAY MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.867154122142,
+      1.27830343996812
+    ]
+  },
+  {
+    "station": "GARDENS BY THE BAY MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.867968767276,
+      1.27882622333397
+    ]
+  },
+  {
+    "station": "GARDENS BY THE BAY MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.868586734111,
+      1.28037075595564
+    ]
+  },
+  {
+    "station": "MARINA SOUTH MRT STATION",
+    "exist": "Exit 1",
+    "line": [],
+    "coordinates": [
+      103.861503878728,
+      1.27357480448593
+    ]
+  },
+  {
+    "station": "MARINA SOUTH MRT STATION",
+    "exist": "Exit 2",
+    "line": [],
+    "coordinates": [
+      103.861777210111,
+      1.27385994951971
+    ]
+  },
+  {
+    "station": "MARINA SOUTH MRT STATION",
+    "exist": "Exit 3",
+    "line": [],
+    "coordinates": [
+      103.862894304629,
+      1.27313520508679
+    ]
+  },
+  {
+    "station": "MARINA SOUTH MRT STATION",
+    "exist": "Exit 4",
+    "line": [],
+    "coordinates": [
+      103.862668508874,
+      1.27551141461164
+    ]
+  },
+  {
+    "station": "ORCHARD BOULEVARD MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.823637898436,
+      1.30362395339039
+    ]
+  },
+  {
+    "station": "ORCHARD BOULEVARD MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.82389561212,
+      1.30246332428451
+    ]
+  },
+  {
+    "station": "GREAT WORLD MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833405504371,
+      1.29655259456474
+    ]
+  },
+  {
+    "station": "GREAT WORLD MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833904631248,
+      1.29332097607264
+    ]
+  },
+  {
+    "station": "GREAT WORLD MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832627103189,
+      1.2928694999213
+    ]
+  },
+  {
+    "station": "GREAT WORLD MRT STATION",
+    "exist": "Exit 6",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832841014649,
+      1.29318434464758
+    ]
+  },
+  {
+    "station": "GREAT WORLD MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832734059176,
+      1.29381997655443
+    ]
+  },
+  {
+    "station": "GREAT WORLD MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833037100577,
+      1.29602983278925
+    ]
+  },
+  {
+    "station": "HAVELOCK MRT STATION",
+    "exist": "Exit 3",
+    "line": [],
+    "coordinates": [
+      103.833369520278,
+      1.28884356335354
+    ]
+  },
+  {
+    "station": "NAPIER MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.819483777776,
+      1.30693598792234
+    ]
+  },
+  {
+    "station": "NAPIER MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.819506621185,
+      1.3063449793684
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 12",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.830663098953,
+      1.30285761474898
+    ]
+  },
+  {
+    "station": "OASIS LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.912646133061,
+      1.40250713144757
+    ]
+  },
+  {
+    "station": "KADALOOR LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.916387458482,
+      1.39980926315018
+    ]
+  },
+  {
+    "station": "MERIDIAN LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.908965833187,
+      1.39668105013866
+    ]
+  },
+  {
+    "station": "MERIDIAN LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.908869496154,
+      1.39712168979943
+    ]
+  },
+  {
+    "station": "COVE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.905928735776,
+      1.399124393509
+    ]
+  },
+  {
+    "station": "SOUTH VIEW LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.74510113108,
+      1.38031765699103
+    ]
+  },
+  {
+    "station": "HOLLAND VILLAGE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.79576910839,
+      1.31106948365962
+    ]
+  },
+  {
+    "station": "ONE-NORTH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.787927806168,
+      1.30035949347946
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.83978923248,
+      1.28099327615611
+    ]
+  },
+  {
+    "station": "DOVER MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.778304715288,
+      1.31141543344877
+    ]
+  },
+  {
+    "station": "DOVER MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.778464771304,
+      1.31169319167964
+    ]
+  },
+  {
+    "station": "BOON LAY MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.705650038035,
+      1.33862950779597
+    ]
+  },
+  {
+    "station": "BOON LAY MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.7053533532,
+      1.3385141209312
+    ]
+  },
+  {
+    "station": "BOON LAY MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.705795031365,
+      1.33827322197702
+    ]
+  },
+  {
+    "station": "BUKIT BATOK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.749936955579,
+      1.34938958776808
+    ]
+  },
+  {
+    "station": "JOO KOON MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.678520709011,
+      1.32750208445865
+    ]
+  },
+  {
+    "station": "JOO KOON MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.678644077077,
+      1.32795611143786
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.744223583926,
+      1.38570539067001
+    ]
+  },
+  {
+    "station": "KRANJI MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.762496770529,
+      1.42512495935501
+    ]
+  },
+  {
+    "station": "MARSILING MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.774410520697,
+      1.43275137172006
+    ]
+  },
+  {
+    "station": "MARSILING MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.773997133375,
+      1.43275136098458
+    ]
+  },
+  {
+    "station": "HARBOURFRONT MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.8215802917,
+      1.26497195959122
+    ]
+  },
+  {
+    "station": "HARBOURFRONT MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.821398857154,
+      1.26597925499591
+    ]
+  },
+  {
+    "station": "HARBOURFRONT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.820468350461,
+      1.26601318319783
+    ]
+  },
+  {
+    "station": "CHINATOWN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.8437978881,
+      1.28371277043019
+    ]
+  },
+  {
+    "station": "CLARKE QUAY MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.845903432736,
+      1.28780575265584
+    ]
+  },
+  {
+    "station": "CLARKE QUAY MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.846593909165,
+      1.28919925781809
+    ]
+  },
+  {
+    "station": "LITTLE INDIA MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.84936002946,
+      1.30560525103922
+    ]
+  },
+  {
+    "station": "SAM KEE LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.904792279936,
+      1.40982767244172
+    ]
+  },
+  {
+    "station": "DAMAI LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.908613856028,
+      1.40504602830874
+    ]
+  },
+  {
+    "station": "OASIS LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.912754573795,
+      1.4021037193748
+    ]
+  },
+  {
+    "station": "KADALOOR LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.916517130328,
+      1.39941146718039
+    ]
+  },
+  {
+    "station": "RIVIERA LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.915935470521,
+      1.39455906596969
+    ]
+  },
+  {
+    "station": "RIVIERA LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.916263098527,
+      1.3943256111184
+    ]
+  },
+  {
+    "station": "CORAL EDGE LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.912708744367,
+      1.39397080711083
+    ]
+  },
+  {
+    "station": "CORAL EDGE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.91265223397,
+      1.39368465222162
+    ]
+  },
+  {
+    "station": "COVE LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.9061760136,
+      1.39930265660882
+    ]
+  },
+  {
+    "station": "HARBOURFRONT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.822509807219,
+      1.26508503461184
+    ]
+  },
+  {
+    "station": "MACPHERSON MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.889793336526,
+      1.3266787588073
+    ]
+  },
+  {
+    "station": "MACPHERSON MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.890665675221,
+      1.32585503018196
+    ]
+  },
+  {
+    "station": "MACPHERSON MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.890262565574,
+      1.32548152990651
+    ]
+  },
+  {
+    "station": "TONGKANG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.886084357383,
+      1.38937900794855
+    ]
+  },
+  {
+    "station": "TONGKANG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.885962114119,
+      1.38918016099808
+    ]
+  },
+  {
+    "station": "RENJONG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.890409161732,
+      1.38669795588852
+    ]
+  },
+  {
+    "station": "RENJONG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.890438192124,
+      1.38681414421555
+    ]
+  },
+  {
+    "station": "RANGGUNG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.897321723817,
+      1.3841763860699
+    ]
+  },
+  {
+    "station": "RANGGUNG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.897223938055,
+      1.38410488340512
+    ]
+  },
+  {
+    "station": "KANGKAR LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.902147558141,
+      1.38407450287348
+    ]
+  },
+  {
+    "station": "KANGKAR LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.902276368029,
+      1.38376520316725
+    ]
+  },
+  {
+    "station": "BAKAU LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.905445630714,
+      1.38818538545215
+    ]
+  },
+  {
+    "station": "BAKAU LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.905482124043,
+      1.387840799257
+    ]
+  },
+  {
+    "station": "RUMBIA LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.906018791652,
+      1.39134048641742
+    ]
+  },
+  {
+    "station": "RUMBIA LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.906105819366,
+      1.39141424178713
+    ]
+  },
+  {
+    "station": "ONE-NORTH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.786907466321,
+      1.29902749872281
+    ]
+  },
+  {
+    "station": "KENT RIDGE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.784809631882,
+      1.29242811590855
+    ]
+  },
+  {
+    "station": "KENT RIDGE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.784465895365,
+      1.29431588700949
+    ]
+  },
+  {
+    "station": "HAW PAR VILLA MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.782006397072,
+      1.28305527354176
+    ]
+  },
+  {
+    "station": "PASIR PANJANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.79203018692,
+      1.27600323278505
+    ]
+  },
+  {
+    "station": "LABRADOR PARK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.802355553663,
+      1.27210695805434
+    ]
+  },
+  {
+    "station": "TELOK BLANGAH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.80988373092,
+      1.2707212262114
+    ]
+  },
+  {
+    "station": "TAN KAH KEE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.807799119073,
+      1.32533306908018
+    ]
+  },
+  {
+    "station": "CASHEW MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.764234480711,
+      1.36983331859629
+    ]
+  },
+  {
+    "station": "SIXTH AVENUE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.796566082121,
+      1.33078046994618
+    ]
+  },
+  {
+    "station": "KING ALBERT PARK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.783030260215,
+      1.33553707766976
+    ]
+  },
+  {
+    "station": "HILLVIEW MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.767108459936,
+      1.36208433991773
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.761922934209,
+      1.37900796974076
+    ]
+  },
+  {
+    "station": "ROCHOR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.852375021633,
+      1.30340410653552
+    ]
+  },
+  {
+    "station": "DOWNTOWN MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.852427746441,
+      1.27979623969206
+    ]
+  },
+  {
+    "station": "TELOK AYER MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.848506543896,
+      1.28188738923558
+    ]
+  },
+  {
+    "station": "PIONEER MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.697155373411,
+      1.33734462692044
+    ]
+  },
+  {
+    "station": "PIONEER MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.697129452876,
+      1.33783162800548
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit I",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.845656003885,
+      1.27644796791678
+    ]
+  },
+  {
+    "station": "BUONA VISTA MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.790930065154,
+      1.30629814162477
+    ]
+  },
+  {
+    "station": "COMPASSVALE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.9006164696,
+      1.39432752151004
+    ]
+  },
+  {
+    "station": "COMPASSVALE LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.900706597553,
+      1.39453417229989
+    ]
+  },
+  {
+    "station": "PUNGGOL POINT LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.906693304924,
+      1.41666406794097
+    ]
+  },
+  {
+    "station": "PUNGGOL POINT LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.906817792333,
+      1.41691476791429
+    ]
+  },
+  {
+    "station": "NIBONG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.900073808053,
+      1.4117727733571
+    ]
+  },
+  {
+    "station": "NIBONG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.900531554207,
+      1.4119103237023
+    ]
+  },
+  {
+    "station": "SUMANG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.898335680078,
+      1.40836843102047
+    ]
+  },
+  {
+    "station": "SUMANG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.898757123956,
+      1.40848790183837
+    ]
+  },
+  {
+    "station": "DOWNTOWN MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.852478046399,
+      1.27952791063231
+    ]
+  },
+  {
+    "station": "DOWNTOWN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.85290812847,
+      1.27960131828225
+    ]
+  },
+  {
+    "station": "DOWNTOWN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.853152091961,
+      1.27944436839161
+    ]
+  },
+  {
+    "station": "DOWNTOWN MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.853013759131,
+      1.27917604078089
+    ]
+  },
+  {
+    "station": "TELOK AYER MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.848841656061,
+      1.28225066426407
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit I",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.855806657255,
+      1.3117658772962
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit H",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.856098852115,
+      1.31188350806091
+    ]
+  },
+  {
+    "station": "BOON KENG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.860706833288,
+      1.31791481647231
+    ]
+  },
+  {
+    "station": "POTONG PASIR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.868966444703,
+      1.33280135224287
+    ]
+  },
+  {
+    "station": "NICOLL HIGHWAY MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.864151747702,
+      1.29966075968377
+    ]
+  },
+  {
+    "station": "BOTANIC GARDENS MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.814976905734,
+      1.32253463294936
+    ]
+  },
+  {
+    "station": "FARRER ROAD MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.807965230708,
+      1.31749372589551
+    ]
+  },
+  {
+    "station": "FARRER ROAD MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.807389234558,
+      1.31755201617223
+    ]
+  },
+  {
+    "station": "HOLLAND VILLAGE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.795753770113,
+      1.31071120133272
+    ]
+  },
+  {
+    "station": "HOLLAND VILLAGE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.796139102483,
+      1.31122026577719
+    ]
+  },
+  {
+    "station": "BAYFRONT MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.859596872187,
+      1.28283490868894
+    ]
+  },
+  {
+    "station": "BAYFRONT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.859759180227,
+      1.28270522470828
+    ]
+  },
+  {
+    "station": "BEAUTY WORLD MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.775450679441,
+      1.34158221454984
+    ]
+  },
+  {
+    "station": "BISHAN MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.850201081965,
+      1.35105321993329
+    ]
+  },
+  {
+    "station": "BISHAN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.848304991722,
+      1.35057959871202
+    ]
+  },
+  {
+    "station": "BOON KENG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.861502357069,
+      1.32010687599131
+    ]
+  },
+  {
+    "station": "SENGKANG MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.89570545661,
+      1.39237084363153
+    ]
+  },
+  {
+    "station": "SENGKANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.895636894365,
+      1.39179563766207
+    ]
+  },
+  {
+    "station": "SENGKANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.895405720754,
+      1.39182911971822
+    ]
+  },
+  {
+    "station": "SENGKANG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.895209399885,
+      1.39088158609449
+    ]
+  },
+  {
+    "station": "PUNGGOL MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.902305996656,
+      1.40533957622685
+    ]
+  },
+  {
+    "station": "PUNGGOL LRT STATION",
+    "exist": "Exit D",
+    "line": [],
+    "coordinates": [
+      103.901798524363,
+      1.40443833617806
+    ]
+  },
+  {
+    "station": "PUNGGOL MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.902598196988,
+      1.40518624176365
+    ]
+  },
+  {
+    "station": "PUNGGOL LRT STATION",
+    "exist": "Exit C",
+    "line": [],
+    "coordinates": [
+      103.902115639183,
+      1.40430062572978
+    ]
+  },
+  {
+    "station": "BUANGKOK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.893463152237,
+      1.38264972282021
+    ]
+  },
+  {
+    "station": "YISHUN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.835090842713,
+      1.42911681431371
+    ]
+  },
+  {
+    "station": "TAI SENG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.888214067772,
+      1.33462087723075
+    ]
+  },
+  {
+    "station": "BARTLEY MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.878908693925,
+      1.34350106152933
+    ]
+  },
+  {
+    "station": "BARTLEY MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.880255893265,
+      1.34224874921609
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit H",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.873546495734,
+      1.34972769951436
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.873957395391,
+      1.349481680255
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.874321946576,
+      1.3499015921065
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.873694014498,
+      1.35059510442143
+    ]
+  },
+  {
+    "station": "SERANGOON MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.871449340349,
+      1.35094827793695
+    ]
+  },
+  {
+    "station": "LORONG CHUAN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.862918299956,
+      1.35173853791277
+    ]
+  },
+  {
+    "station": "LORONG CHUAN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.864933673465,
+      1.35143910357514
+    ]
+  },
+  {
+    "station": "MARYMOUNT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.840058918077,
+      1.34786607217308
+    ]
+  },
+  {
+    "station": "MARYMOUNT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.839087956801,
+      1.34898038642137
+    ]
+  },
+  {
+    "station": "DHOBY GHAUT MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line",
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.844747857191,
+      1.29964924216132
+    ]
+  },
+  {
+    "station": "CALDECOTT MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.839406731225,
+      1.33710531669564
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.961942958226,
+      1.33532172433891
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.962075287596,
+      1.33525294423695
+    ]
+  },
+  {
+    "station": "ADMIRALTY MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.800533463258,
+      1.44015239674676
+    ]
+  },
+  {
+    "station": "ADMIRALTY MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.801364534451,
+      1.4405333880723
+    ]
+  },
+  {
+    "station": "ANG MO KIO MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.849343273705,
+      1.3694405305965
+    ]
+  },
+  {
+    "station": "BAYFRONT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.85873192474,
+      1.28096742397164
+    ]
+  },
+  {
+    "station": "BAYFRONT MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.858441003652,
+      1.28110463709187
+    ]
+  },
+  {
+    "station": "BAYFRONT MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.859493846611,
+      1.28283435447098
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.945089563334,
+      1.35353908166709
+    ]
+  },
+  {
+    "station": "HOUGANG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.891975029135,
+      1.37214183483289
+    ]
+  },
+  {
+    "station": "HOUGANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.892445723159,
+      1.37020857826092
+    ]
+  },
+  {
+    "station": "KOVAN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.884721732122,
+      1.36020562306327
+    ]
+  },
+  {
+    "station": "KOVAN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.885450578,
+      1.36002801014446
+    ]
+  },
+  {
+    "station": "KOVAN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.884307428636,
+      1.35970758870125
+    ]
+  },
+  {
+    "station": "EUNOS MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.902894137842,
+      1.31951727489935
+    ]
+  },
+  {
+    "station": "EUNOS MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.902582077618,
+      1.3195625452698
+    ]
+  },
+  {
+    "station": "KEMBANGAN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.912899288746,
+      1.32115210805545
+    ]
+  },
+  {
+    "station": "KEMBANGAN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.912941079407,
+      1.32092376028202
+    ]
+  },
+  {
+    "station": "BEDOK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.929157143095,
+      1.32356863615635
+    ]
+  },
+  {
+    "station": "BEDOK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.929673089995,
+      1.32426834276114
+    ]
+  },
+  {
+    "station": "ANG MO KIO MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.849596100655,
+      1.36968532219972
+    ]
+  },
+  {
+    "station": "ANG MO KIO MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.849939000741,
+      1.3694647065051
+    ]
+  },
+  {
+    "station": "BISHAN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.84831225598,
+      1.35106443927374
+    ]
+  },
+  {
+    "station": "BISHAN MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.848432923875,
+      1.35103483777104
+    ]
+  },
+  {
+    "station": "BISHAN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.848209281294,
+      1.35058491153989
+    ]
+  },
+  {
+    "station": "BRADDELL MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.847440830591,
+      1.34067216394317
+    ]
+  },
+  {
+    "station": "BRADDELL MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.846406497231,
+      1.34074431901447
+    ]
+  },
+  {
+    "station": "BRADDELL MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.846429540721,
+      1.34106899206951
+    ]
+  },
+  {
+    "station": "TOA PAYOH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.847577567476,
+      1.33231553664677
+    ]
+  },
+  {
+    "station": "TOA PAYOH MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.847319773632,
+      1.33299410183748
+    ]
+  },
+  {
+    "station": "NOVENA MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.843339733476,
+      1.31989588603478
+    ]
+  },
+  {
+    "station": "NOVENA MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.844389333871,
+      1.32109486830236
+    ]
+  },
+  {
+    "station": "TOA PAYOH MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.846517406156,
+      1.33327874598633
+    ]
+  },
+  {
+    "station": "WOODLEIGH MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.871053804158,
+      1.3398672199419
+    ]
+  },
+  {
+    "station": "WOODLEIGH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.870940604568,
+      1.33851065441145
+    ]
+  },
+  {
+    "station": "WOODLEIGH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.870508468145,
+      1.33858314946013
+    ]
+  },
+  {
+    "station": "BOON KENG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.861903675519,
+      1.31923519599748
+    ]
+  },
+  {
+    "station": "POTONG PASIR MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.868703893188,
+      1.33106671097983
+    ]
+  },
+  {
+    "station": "POTONG PASIR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.869333239363,
+      1.33114814073399
+    ]
+  },
+  {
+    "station": "SOMERSET MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.838399326576,
+      1.3000284884874
+    ]
+  },
+  {
+    "station": "ONE-NORTH MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.787565456204,
+      1.29971469760634
+    ]
+  },
+  {
+    "station": "BRAS BASAH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.850474275507,
+      1.29604621307724
+    ]
+  },
+  {
+    "station": "BRAS BASAH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.851327253386,
+      1.29685892177104
+    ]
+  },
+  {
+    "station": "BRAS BASAH MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.850249852705,
+      1.29701443296395
+    ]
+  },
+  {
+    "station": "BRAS BASAH MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.85015752098,
+      1.29755148518356
+    ]
+  },
+  {
+    "station": "BRAS BASAH MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.850423192511,
+      1.29753545171709
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.856305554739,
+      1.29337054827687
+    ]
+  },
+  {
+    "station": "BUKIT BATOK MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.749766564931,
+      1.34952006073274
+    ]
+  },
+  {
+    "station": "CHINATOWN MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.843476210528,
+      1.28540645998668
+    ]
+  },
+  {
+    "station": "BUKIT BATOK MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.749118394189,
+      1.34840537590496
+    ]
+  },
+  {
+    "station": "BUKIT BATOK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.749973990258,
+      1.34956107535244
+    ]
+  },
+  {
+    "station": "BUKIT GOMBAK MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.751726614847,
+      1.35906497975184
+    ]
+  },
+  {
+    "station": "BUKIT GOMBAK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.752076389375,
+      1.35906984624156
+    ]
+  },
+  {
+    "station": "BUKIT GOMBAK MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.751950990526,
+      1.35929785281919
+    ]
+  },
+  {
+    "station": "BOON LAY MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.706145547967,
+      1.33842069565789
+    ]
+  },
+  {
+    "station": "BOON LAY MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.705955152611,
+      1.33873810873339
+    ]
+  },
+  {
+    "station": "BOON LAY MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.705408994969,
+      1.33827998808197
+    ]
+  },
+  {
+    "station": "LAKESIDE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.721712827003,
+      1.34430416996866
+    ]
+  },
+  {
+    "station": "LAKESIDE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.721075412743,
+      1.34408145751948
+    ]
+  },
+  {
+    "station": "KRANJI MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.761754685561,
+      1.42512594915704
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.763063555247,
+      1.37802038374966
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.763178520546,
+      1.3778632485676
+    ]
+  },
+  {
+    "station": "SAMUDERA LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.901911509627,
+      1.41586536048285
+    ]
+  },
+  {
+    "station": "SAMUDERA LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.902361560111,
+      1.41590585709171
+    ]
+  },
+  {
+    "station": "TECK LEE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.906781529506,
+      1.4128757347357
+    ]
+  },
+  {
+    "station": "TECK LEE LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.906510789934,
+      1.41292900309077
+    ]
+  },
+  {
+    "station": "SAM KEE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.905038571005,
+      1.40970250004176
+    ]
+  },
+  {
+    "station": "PETIR LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.766793014963,
+      1.37760322809516
+    ]
+  },
+  {
+    "station": "PENDING LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.771327842297,
+      1.37629711719364
+    ]
+  },
+  {
+    "station": "BANGKIT LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.772590574209,
+      1.37985334676455
+    ]
+  },
+  {
+    "station": "FAJAR LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.770675518445,
+      1.38446507117965
+    ]
+  },
+  {
+    "station": "SEGAR LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.769409914802,
+      1.38781155599523
+    ]
+  },
+  {
+    "station": "JELAPANG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.764676792845,
+      1.38683269953093
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.942653681878,
+      1.35419392760642
+    ]
+  },
+  {
+    "station": "GEYLANG BAHRU MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.871555607569,
+      1.32156169874025
+    ]
+  },
+  {
+    "station": "TAMPINES EAST MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.954540440781,
+      1.35646076166742
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.744557135368,
+      1.38543128087598
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832770796508,
+      1.30416113765593
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 7",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832171601239,
+      1.30316753447888
+    ]
+  },
+  {
+    "station": "SOMERSET MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.838458985164,
+      1.30076651877174
+    ]
+  },
+  {
+    "station": "DHOBY GHAUT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line",
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.846787971786,
+      1.29844509204817
+    ]
+  },
+  {
+    "station": "DHOBY GHAUT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line",
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.845229558929,
+      1.29905589070891
+    ]
+  },
+  {
+    "station": "DHOBY GHAUT MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North South Line",
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.84537229423,
+      1.29974847066982
+    ]
+  },
+  {
+    "station": "DHOBY GHAUT MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "North South Line",
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.845842318018,
+      1.29963489191106
+    ]
+  },
+  {
+    "station": "BUGIS MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.855685703914,
+      1.30000694069987
+    ]
+  },
+  {
+    "station": "CITY HALL MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.853020413551,
+      1.29322711034183
+    ]
+  },
+  {
+    "station": "CITY HALL MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851960217746,
+      1.29309991857995
+    ]
+  },
+  {
+    "station": "BUGIS MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.856336627673,
+      1.3007821987657
+    ]
+  },
+  {
+    "station": "BUGIS MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.855924081461,
+      1.30120408956464
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.838657701712,
+      1.2816024282435
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.838934837217,
+      1.28167534568857
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.846544590474,
+      1.2766717422527
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.84483401421,
+      1.27640850073994
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.846533557964,
+      1.27608922999502
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.846908800204,
+      1.27606482826343
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit H",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851621715866,
+      1.28525828120125
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851522595155,
+      1.28321158212436
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851479978299,
+      1.28460687453702
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851478131997,
+      1.28501689730178
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851438353658,
+      1.28412514770369
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851353214562,
+      1.28364139087742
+    ]
+  },
+  {
+    "station": "DHOBY GHAUT MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line",
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.845030131864,
+      1.29993066561743
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.840386787096,
+      1.28021335386912
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.839549241441,
+      1.2789469557329
+    ]
+  },
+  {
+    "station": "OUTRAM PARK MRT STATION",
+    "exist": "Exit 6",
+    "line": [
+      "East West Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.838537251968,
+      1.27905123851202
+    ]
+  },
+  {
+    "station": "CLARKE QUAY MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.846665833855,
+      1.28938385187247
+    ]
+  },
+  {
+    "station": "CLARKE QUAY MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.847129742733,
+      1.28940556680266
+    ]
+  },
+  {
+    "station": "CLARKE QUAY MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.846064543773,
+      1.28689878783571
+    ]
+  },
+  {
+    "station": "CLARKE QUAY MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.847032643299,
+      1.28900018307139
+    ]
+  },
+  {
+    "station": "CHINATOWN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.842812853584,
+      1.2846748973681
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.744595143026,
+      1.38497966418718
+    ]
+  },
+  {
+    "station": "CHINATOWN MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.844428119405,
+      1.28504408060892
+    ]
+  },
+  {
+    "station": "QUEENSTOWN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.806182777133,
+      1.29424726215095
+    ]
+  },
+  {
+    "station": "REDHILL MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.816994458553,
+      1.28937070467351
+    ]
+  },
+  {
+    "station": "REDHILL MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.81724937308,
+      1.28948587536099
+    ]
+  },
+  {
+    "station": "COMMONWEALTH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.798057882031,
+      1.30275277699775
+    ]
+  },
+  {
+    "station": "COMMONWEALTH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.797958292266,
+      1.30264816140773
+    ]
+  },
+  {
+    "station": "TIONG BAHRU MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.826990595146,
+      1.28575945589882
+    ]
+  },
+  {
+    "station": "TIONG BAHRU MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.827496413393,
+      1.28636194139043
+    ]
+  },
+  {
+    "station": "HARBOURFRONT MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.822531651626,
+      1.26525988373469
+    ]
+  },
+  {
+    "station": "HARBOURFRONT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.820508811132,
+      1.2651546823432
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832039800882,
+      1.30456047411925
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832524259379,
+      1.30489217813715
+    ]
+  },
+  {
+    "station": "NEWTON MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "North South Line"
+    ],
+    "coordinates": [
+      103.837881325391,
+      1.31259779668808
+    ]
+  },
+  {
+    "station": "NEWTON MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "North South Line"
+    ],
+    "coordinates": [
+      103.838219069361,
+      1.31207546212127
+    ]
+  },
+  {
+    "station": "ORCHARD MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832619611515,
+      1.30435439856042
+    ]
+  },
+  {
+    "station": "LAVENDER MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.863043062903,
+      1.30716946047274
+    ]
+  },
+  {
+    "station": "LAVENDER MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.862650316623,
+      1.30761853913167
+    ]
+  },
+  {
+    "station": "KALLANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.871587075861,
+      1.3117817705438
+    ]
+  },
+  {
+    "station": "KALLANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.871730564168,
+      1.31154048297553
+    ]
+  },
+  {
+    "station": "ALJUNIED MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.882472887782,
+      1.31648793030408
+    ]
+  },
+  {
+    "station": "ALJUNIED MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.882496650457,
+      1.31623848534471
+    ]
+  },
+  {
+    "station": "LITTLE INDIA MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.848985089711,
+      1.30656355535778
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.854763767756,
+      1.3135439659757
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.85265097068,
+      1.31188353723816
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.853199391142,
+      1.31142204648133
+    ]
+  },
+  {
+    "station": "PROMENADE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.860673611302,
+      1.29171166099886
+    ]
+  },
+  {
+    "station": "TOA PAYOH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.847723804314,
+      1.33237644203021
+    ]
+  },
+  {
+    "station": "LAKESIDE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.720448529393,
+      1.3439833412622
+    ]
+  },
+  {
+    "station": "CHINESE GARDEN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.733393135763,
+      1.34156582633258
+    ]
+  },
+  {
+    "station": "CHINESE GARDEN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.732741825545,
+      1.34198208956493
+    ]
+  },
+  {
+    "station": "CHINESE GARDEN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.732220154829,
+      1.34243874323998
+    ]
+  },
+  {
+    "station": "JURONG EAST MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.742762081653,
+      1.33274868462584
+    ]
+  },
+  {
+    "station": "JURONG EAST MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.741759898309,
+      1.33398960393819
+    ]
+  },
+  {
+    "station": "JURONG EAST MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.742640162983,
+      1.33252623564817
+    ]
+  },
+  {
+    "station": "YEW TEE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.747329880035,
+      1.39806776806003
+    ]
+  },
+  {
+    "station": "YEW TEE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.747195166471,
+      1.39765547935269
+    ]
+  },
+  {
+    "station": "YEW TEE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.74743189325,
+      1.39700077173066
+    ]
+  },
+  {
+    "station": "YEW TEE MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.747111431,
+      1.39727251197228
+    ]
+  },
+  {
+    "station": "BUKIT GOMBAK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.752092995698,
+      1.35869526126909
+    ]
+  },
+  {
+    "station": "KEAT HONG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.749226841606,
+      1.37846496701683
+    ]
+  },
+  {
+    "station": "TECK WHYE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.753826102342,
+      1.37656419493699
+    ]
+  },
+  {
+    "station": "PHOENIX LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.758252475106,
+      1.37861406821397
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.759597843573,
+      1.38074511730578
+    ]
+  },
+  {
+    "station": "BUANGKOK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.892883836731,
+      1.3834097909899
+    ]
+  },
+  {
+    "station": "TELOK AYER MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.84877332816,
+      1.28249727503873
+    ]
+  },
+  {
+    "station": "ONE-NORTH MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.787784810554,
+      1.30007470288421
+    ]
+  },
+  {
+    "station": "KENT RIDGE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.784490451682,
+      1.29398478516701
+    ]
+  },
+  {
+    "station": "KENT RIDGE MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.784534656639,
+      1.29321880284117
+    ]
+  },
+  {
+    "station": "LITTLE INDIA MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.848999982241,
+      1.30685473719087
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.762034360871,
+      1.37876623763886
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.744560000291,
+      1.38539999996952
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.744470000052,
+      1.38459999970902
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.74447000019,
+      1.38572999956458
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.744110000392,
+      1.38536999970775
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG LRT STATION",
+    "exist": "Exit E",
+    "line": [],
+    "coordinates": [
+      103.744620000447,
+      1.38499999972745
+    ]
+  },
+  {
+    "station": "GUL CIRCLE MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.660444143859,
+      1.31903226656851
+    ]
+  },
+  {
+    "station": "GUL CIRCLE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.659434945517,
+      1.31883718313345
+    ]
+  },
+  {
+    "station": "TUAS CRESCENT MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.648958741267,
+      1.32076381711222
+    ]
+  },
+  {
+    "station": "TUAS CRESCENT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.649286789109,
+      1.32124359639868
+    ]
+  },
+  {
+    "station": "TUAS WEST ROAD MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.639284344709,
+      1.32987242413926
+    ]
+  },
+  {
+    "station": "TUAS WEST ROAD MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.639790711295,
+      1.33018233023207
+    ]
+  },
+  {
+    "station": "TUAS LINK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.637245720022,
+      1.34042689920514
+    ]
+  },
+  {
+    "station": "TUAS LINK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.636840667474,
+      1.34094007226858
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.962161021864,
+      1.33595097171569
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.963100681762,
+      1.33483488834327
+    ]
+  },
+  {
+    "station": "MACPHERSON MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.888615211677,
+      1.32619277755048
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.962123376874,
+      1.33486331350548
+    ]
+  },
+  {
+    "station": "MACPHERSON MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.888454834376,
+      1.32514545867968
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.963049007432,
+      1.33501932038682
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.961836795084,
+      1.33548282216596
+    ]
+  },
+  {
+    "station": "EXPO MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.96286574628,
+      1.33471194824107
+    ]
+  },
+  {
+    "station": "SPRINGLEAF MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.818390607138,
+      1.39782080405751
+    ]
+  },
+  {
+    "station": "SPRINGLEAF MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.818081623801,
+      1.39768417887856
+    ]
+  },
+  {
+    "station": "WOODLANDS NORTH MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.785429080675,
+      1.44793650249651
+    ]
+  },
+  {
+    "station": "WOODLANDS NORTH MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.785102271425,
+      1.44904729970725
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.788964328113,
+      1.43584393593589
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 7",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.787976768822,
+      1.43449552583778
+    ]
+  },
+  {
+    "station": "WOODLANDS SOUTH MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.793027463346,
+      1.4273020172478
+    ]
+  },
+  {
+    "station": "WOODLANDS SOUTH MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.793413692732,
+      1.42760496413455
+    ]
+  },
+  {
+    "station": "WOODLANDS SOUTH MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.794560497858,
+      1.42742676003562
+    ]
+  },
+  {
+    "station": "WOODLANDS SOUTH MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.794423831787,
+      1.42668424080276
+    ]
+  },
+  {
+    "station": "SPRINGLEAF MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.818003414954,
+      1.39878724836535
+    ]
+  },
+  {
+    "station": "LENTOR MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.835823452024,
+      1.38589099008684
+    ]
+  },
+  {
+    "station": "LENTOR MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.835359976701,
+      1.38540982990749
+    ]
+  },
+  {
+    "station": "LENTOR MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.837398080029,
+      1.38460195423691
+    ]
+  },
+  {
+    "station": "LENTOR MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.837338660064,
+      1.3836277515433
+    ]
+  },
+  {
+    "station": "LENTOR MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.836839532696,
+      1.38416237536177
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.837461041245,
+      1.37353209209743
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.837031676998,
+      1.37371976104919
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.83671675131,
+      1.37270397234703
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 7",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.83628496724,
+      1.37137730761848
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.836795978097,
+      1.37127632290154
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.836760326587,
+      1.37077733815485
+    ]
+  },
+  {
+    "station": "MAYFLOWER MRT STATION",
+    "exist": "Exit 6",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.836308734746,
+      1.37089614419322
+    ]
+  },
+  {
+    "station": "BRIGHT HILL MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833635413994,
+      1.36403718216562
+    ]
+  },
+  {
+    "station": "BRIGHT HILL MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833510631569,
+      1.36328276235517
+    ]
+  },
+  {
+    "station": "BRIGHT HILL MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.831953829452,
+      1.3631639565255
+    ]
+  },
+  {
+    "station": "BRIGHT HILL MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.832375711055,
+      1.36218380484981
+    ]
+  },
+  {
+    "station": "UPPER THOMSON MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.831833009004,
+      1.35573657470655
+    ]
+  },
+  {
+    "station": "UPPER THOMSON MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.831916196892,
+      1.35483364468235
+    ]
+  },
+  {
+    "station": "UPPER THOMSON MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.83263517825,
+      1.35441782186373
+    ]
+  },
+  {
+    "station": "UPPER THOMSON MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833924590606,
+      1.35414456637885
+    ]
+  },
+  {
+    "station": "UPPER THOMSON MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.833793867314,
+      1.35350301029652
+    ]
+  },
+  {
+    "station": "CALDECOTT MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.840387499238,
+      1.33825972994181
+    ]
+  },
+  {
+    "station": "CALDECOTT MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.840464745299,
+      1.33783202317926
+    ]
+  },
+  {
+    "station": "CALDECOTT MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "Circle Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.839882429752,
+      1.33675087511065
+    ]
+  },
+  {
+    "station": "CANBERRA MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.829254643947,
+      1.44351133884481
+    ]
+  },
+  {
+    "station": "CANBERRA MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.829527975861,
+      1.44363014106056
+    ]
+  },
+  {
+    "station": "CANBERRA MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.829700293337,
+      1.44280446541205
+    ]
+  },
+  {
+    "station": "CANBERRA MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.829961741209,
+      1.44293514818295
+    ]
+  },
+  {
+    "station": "CANBERRA MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.830116233173,
+      1.44325591355701
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 2",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.786508083762,
+      1.43667311468753
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 3",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.787108225411,
+      1.43724336703986
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 4",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.788005465669,
+      1.43754037357975
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 1",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.785735624465,
+      1.43669687524624
+    ]
+  },
+  {
+    "station": "WOODLANDS MRT STATION",
+    "exist": "Exit 6",
+    "line": [
+      "North South Line",
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.789089109752,
+      1.43481517513889
+    ]
+  },
+  {
+    "station": "WOODLANDS SOUTH MRT STATION",
+    "exist": "Exit 5",
+    "line": [
+      "Thomson East-Coast Line"
+    ],
+    "coordinates": [
+      103.79436521102,
+      1.42584338690928
+    ]
+  },
+  {
+    "station": "FERNVALE LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.876261653892,
+      1.3921582676261
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG LRT STATION",
+    "exist": "Exit C",
+    "line": [],
+    "coordinates": [
+      103.762722523556,
+      1.37792792775255
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG LRT STATION",
+    "exist": "Exit D",
+    "line": [],
+    "coordinates": [
+      103.763251851956,
+      1.37802410264834
+    ]
+  },
+  {
+    "station": "TANAH MERAH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.945723041582,
+      1.32706127581436
+    ]
+  },
+  {
+    "station": "TANAH MERAH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.945794727929,
+      1.32685774838818
+    ]
+  },
+  {
+    "station": "CLEMENTI MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.764982102595,
+      1.31537355787444
+    ]
+  },
+  {
+    "station": "CLEMENTI MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.765185566729,
+      1.31546912943168
+    ]
+  },
+  {
+    "station": "BUONA VISTA MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.790449175303,
+      1.30730945077024
+    ]
+  },
+  {
+    "station": "BUONA VISTA MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.790656619433,
+      1.30719725705854
+    ]
+  },
+  {
+    "station": "BUONA VISTA MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.79059939037,
+      1.30691288861046
+    ]
+  },
+  {
+    "station": "QUEENSTOWN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.806311472758,
+      1.29432990890605
+    ]
+  },
+  {
+    "station": "CHENG LIM LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.893684874277,
+      1.39637321823541
+    ]
+  },
+  {
+    "station": "CHENG LIM LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.893920331573,
+      1.3961869711233
+    ]
+  },
+  {
+    "station": "THANGGAM LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.875566364382,
+      1.39719803592397
+    ]
+  },
+  {
+    "station": "THANGGAM LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.875686836958,
+      1.39719245833865
+    ]
+  },
+  {
+    "station": "KUPANG LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.881139169799,
+      1.39828419776009
+    ]
+  },
+  {
+    "station": "KUPANG LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.881137936207,
+      1.39815879147241
+    ]
+  },
+  {
+    "station": "FARMWAY LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.889407447882,
+      1.39720034457508
+    ]
+  },
+  {
+    "station": "FARMWAY LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.889115016848,
+      1.39713347750584
+    ]
+  },
+  {
+    "station": "LAYAR LRT STATION",
+    "exist": "Exit A",
+    "line": [],
+    "coordinates": [
+      103.880159730519,
+      1.39202617213173
+    ]
+  },
+  {
+    "station": "LAYAR LRT STATION",
+    "exist": "Exit B",
+    "line": [],
+    "coordinates": [
+      103.880142799143,
+      1.39214453741467
+    ]
+  },
+  {
+    "station": "KRANJI MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.761940606096,
+      1.42485264466106
+    ]
+  },
+  {
+    "station": "KRANJI MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.762018515591,
+      1.42473917121754
+    ]
+  },
+  {
+    "station": "MARSILING MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.773820451036,
+      1.43246952240006
+    ]
+  },
+  {
+    "station": "MARSILING MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.774210493312,
+      1.43280169435331
+    ]
+  },
+  {
+    "station": "PAYA LEBAR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.892788324105,
+      1.31821599215008
+    ]
+  },
+  {
+    "station": "PAYA LEBAR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.892217168632,
+      1.31834746689885
+    ]
+  },
+  {
+    "station": "YIO CHU KANG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.844645760434,
+      1.38195362130605
+    ]
+  },
+  {
+    "station": "YIO CHU KANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.844834195491,
+      1.3816444074307
+    ]
+  },
+  {
+    "station": "YIO CHU KANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.844946847542,
+      1.38154752053604
+    ]
+  },
+  {
+    "station": "ADMIRALTY MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.80054245816,
+      1.44059628565794
+    ]
+  },
+  {
+    "station": "ADMIRALTY MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.800989521918,
+      1.44034566128304
+    ]
+  },
+  {
+    "station": "SEMBAWANG MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.820109735758,
+      1.44883731943313
+    ]
+  },
+  {
+    "station": "SEMBAWANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.819790204572,
+      1.44876826032584
+    ]
+  },
+  {
+    "station": "YISHUN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.834783603184,
+      1.42939716731595
+    ]
+  },
+  {
+    "station": "YISHUN MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.834863485217,
+      1.42910650744289
+    ]
+  },
+  {
+    "station": "KHATIB MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.832886913694,
+      1.41754470685258
+    ]
+  },
+  {
+    "station": "KHATIB MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.83292241701,
+      1.41705821242698
+    ]
+  },
+  {
+    "station": "KHATIB MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.832706667743,
+      1.41714341792972
+    ]
+  },
+  {
+    "station": "SEMBAWANG MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.820401560292,
+      1.44892733153759
+    ]
+  },
+  {
+    "station": "PASIR RIS MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.949136940349,
+      1.37288623635201
+    ]
+  },
+  {
+    "station": "PASIR RIS MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.949333426645,
+      1.37284196908053
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.944766312107,
+      1.35376401254022
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.944903957895,
+      1.35339831264921
+    ]
+  },
+  {
+    "station": "CHOA CHU KANG MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.744517798771,
+      1.38573618540312
+    ]
+  },
+  {
+    "station": "LITTLE INDIA MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.849704822933,
+      1.30635155408624
+    ]
+  },
+  {
+    "station": "LITTLE INDIA MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.850322159955,
+      1.30742644439895
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.852974635237,
+      1.31245360639306
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.853266824822,
+      1.31191067869135
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.854772747378,
+      1.31232690903703
+    ]
+  },
+  {
+    "station": "FARRER PARK MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "North East Line"
+    ],
+    "coordinates": [
+      103.855500982372,
+      1.31225903641299
+    ]
+  },
+  {
+    "station": "CHANGI AIRPORT MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.987304579798,
+      1.35722025606017
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.85492020244,
+      1.29358640073634
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.855855203772,
+      1.29290433691952
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.856175670935,
+      1.29292718733646
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851562535487,
+      1.28363052072741
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit J",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851296033431,
+      1.28262623356678
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.850960902093,
+      1.28253857491919
+    ]
+  },
+  {
+    "station": "RAFFLES PLACE MRT STATION",
+    "exist": "Exit I",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.851433302399,
+      1.28238230729746
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.847095791197,
+      1.27625910113258
+    ]
+  },
+  {
+    "station": "BENCOOLEN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.849560477591,
+      1.29819940045567
+    ]
+  },
+  {
+    "station": "TAMPINES EAST MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.955704711379,
+      1.35555317150178
+    ]
+  },
+  {
+    "station": "MATTAR MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.882732067245,
+      1.3272514140918
+    ]
+  },
+  {
+    "station": "TAMPINES MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.942658810694,
+      1.35585344476425
+    ]
+  },
+  {
+    "station": "UPPER CHANGI MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.961328480539,
+      1.34186119734213
+    ]
+  },
+  {
+    "station": "TAMPINES EAST MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.955170014221,
+      1.35558822639472
+    ]
+  },
+  {
+    "station": "JALAN BESAR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.855244564615,
+      1.30546727989327
+    ]
+  },
+  {
+    "station": "BEDOK NORTH MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.918049823987,
+      1.33512626621364
+    ]
+  },
+  {
+    "station": "UPPER CHANGI MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.96096063019,
+      1.3420065422681
+    ]
+  },
+  {
+    "station": "BEDOK NORTH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.919062823449,
+      1.33416607444721
+    ]
+  },
+  {
+    "station": "BENDEMEER MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.863219231431,
+      1.3134807250256
+    ]
+  },
+  {
+    "station": "TAMPINES WEST MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.938196740006,
+      1.34563058761391
+    ]
+  },
+  {
+    "station": "UBI MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.898585570916,
+      1.32983077067473
+    ]
+  },
+  {
+    "station": "FORT CANNING MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.844425031565,
+      1.29283027594572
+    ]
+  },
+  {
+    "station": "BEDOK NORTH MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.919134302662,
+      1.33437249020327
+    ]
+  },
+  {
+    "station": "MATTAR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.883748387313,
+      1.32646352216707
+    ]
+  },
+  {
+    "station": "FORT CANNING MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.844170034197,
+      1.29240609557825
+    ]
+  },
+  {
+    "station": "UBI MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.899876690857,
+      1.32995082828977
+    ]
+  },
+  {
+    "station": "UPPER CHANGI MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.96161727308,
+      1.34199266734225
+    ]
+  },
+  {
+    "station": "UPPER CHANGI MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.961476268426,
+      1.34103767912256
+    ]
+  },
+  {
+    "station": "TAMPINES EAST MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.955717437922,
+      1.35697019355667
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.846927580235,
+      1.27737948810714
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.846953147544,
+      1.27778454036503
+    ]
+  },
+  {
+    "station": "TANJONG PAGAR MRT STATION",
+    "exist": "Exit H",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.846445088412,
+      1.27545090434532
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit E",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.855567841069,
+      1.29312881366023
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.855104632111,
+      1.29381950731267
+    ]
+  },
+  {
+    "station": "ESPLANADE MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.85583375579,
+      1.29262374346665
+    ]
+  },
+  {
+    "station": "PROMENADE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.860136884402,
+      1.29386208787626
+    ]
+  },
+  {
+    "station": "NICOLL HIGHWAY MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.863505955243,
+      1.30016968970884
+    ]
+  },
+  {
+    "station": "STADIUM MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.876226233975,
+      1.30337022602025
+    ]
+  },
+  {
+    "station": "STADIUM MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.874399988289,
+      1.3025110877234
+    ]
+  },
+  {
+    "station": "MOUNTBATTEN MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.883248292704,
+      1.30604592566075
+    ]
+  },
+  {
+    "station": "MOUNTBATTEN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.882597535734,
+      1.30675271022847
+    ]
+  },
+  {
+    "station": "DAKOTA MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.889307215344,
+      1.30881418752426
+    ]
+  },
+  {
+    "station": "DAKOTA MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.887979337682,
+      1.30809675040545
+    ]
+  },
+  {
+    "station": "PAYA LEBAR MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.891721121592,
+      1.31814928543131
+    ]
+  },
+  {
+    "station": "PAYA LEBAR MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.892077699246,
+      1.31658771946928
+    ]
+  },
+  {
+    "station": "PROMENADE MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.860236484112,
+      1.29410275636151
+    ]
+  },
+  {
+    "station": "KHATIB MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.833231020039,
+      1.41786903711686
+    ]
+  },
+  {
+    "station": "SIMEI MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.953818676297,
+      1.34266179453371
+    ]
+  },
+  {
+    "station": "BEDOK MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.929404279689,
+      1.32407464586546
+    ]
+  },
+  {
+    "station": "BUGIS MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "Downtown Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.856890654867,
+      1.29907884888673
+    ]
+  },
+  {
+    "station": "CITY HALL MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.852980287708,
+      1.29304184790826
+    ]
+  },
+  {
+    "station": "QUEENSTOWN MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.805584729896,
+      1.2954462560701
+    ]
+  },
+  {
+    "station": "QUEENSTOWN MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.805492204888,
+      1.29538293052613
+    ]
+  },
+  {
+    "station": "COMMONWEALTH MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.798778572605,
+      1.30207704580319
+    ]
+  },
+  {
+    "station": "COMMONWEALTH MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.798720258772,
+      1.30201271935133
+    ]
+  },
+  {
+    "station": "CLEMENTI MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.765570116184,
+      1.314078414345
+    ]
+  },
+  {
+    "station": "CLEMENTI MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "East West Line"
+    ],
+    "coordinates": [
+      103.765749815719,
+      1.31416229810691
+    ]
+  },
+  {
+    "station": "JURONG EAST MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line",
+      "East West Line"
+    ],
+    "coordinates": [
+      103.742298193307,
+      1.33358133108919
+    ]
+  },
+  {
+    "station": "ANG MO KIO MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.84982457248,
+      1.36988237526817
+    ]
+  },
+  {
+    "station": "SOMERSET MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.838765584281,
+      1.30043622058993
+    ]
+  },
+  {
+    "station": "SOMERSET MRT STATION",
+    "exist": "Exit D",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.839734148085,
+      1.30024113867986
+    ]
+  },
+  {
+    "station": "MARINA SOUTH PIER MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.86233005097,
+      1.27052998951863
+    ]
+  },
+  {
+    "station": "MARINA SOUTH PIER MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "North South Line"
+    ],
+    "coordinates": [
+      103.863579669764,
+      1.27143783716222
+    ]
+  },
+  {
+    "station": "CHINATOWN MRT STATION",
+    "exist": "Exit G",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.84445854173,
+      1.28473608363703
+    ]
+  },
+  {
+    "station": "CHINATOWN MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.845462531796,
+      1.28427477607278
+    ]
+  },
+  {
+    "station": "BUKIT PANJANG MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.761370504957,
+      1.37861889401251
+    ]
+  },
+  {
+    "station": "HILLVIEW MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.767688290103,
+      1.36247423794507
+    ]
+  },
+  {
+    "station": "BEAUTY WORLD MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.775984296226,
+      1.3416961499328
+    ]
+  },
+  {
+    "station": "BEAUTY WORLD MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.775761545626,
+      1.33998187378458
+    ]
+  },
+  {
+    "station": "KING ALBERT PARK MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.784561584781,
+      1.33597604551556
+    ]
+  },
+  {
+    "station": "SIXTH AVENUE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.796848178229,
+      1.33152130143572
+    ]
+  },
+  {
+    "station": "TAN KAH KEE MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.807800873707,
+      1.32614615882549
+    ]
+  },
+  {
+    "station": "BOTANIC GARDENS MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line",
+      "Circle Line"
+    ],
+    "coordinates": [
+      103.815914145792,
+      1.32268461233639
+    ]
+  },
+  {
+    "station": "NEWTON MRT STATION",
+    "exist": "Exit C",
+    "line": [
+      "Downtown Line",
+      "North South Line"
+    ],
+    "coordinates": [
+      103.838242381635,
+      1.31361726914981
+    ]
+  },
+  {
+    "station": "LITTLE INDIA MRT STATION",
+    "exist": "Exit F",
+    "line": [
+      "Downtown Line",
+      "North East Line"
+    ],
+    "coordinates": [
+      103.848304399136,
+      1.30768353655885
+    ]
+  },
+  {
+    "station": "ROCHOR MRT STATION",
+    "exist": "Exit B",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.853104335649,
+      1.30421477703374
+    ]
+  },
+  {
+    "station": "DOWNTOWN MRT STATION",
+    "exist": "Exit A",
+    "line": [
+      "Downtown Line"
+    ],
+    "coordinates": [
+      103.852646560011,
+      1.27977345528297
+    ]
+  }
+]
