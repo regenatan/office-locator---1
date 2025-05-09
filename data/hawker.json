@@ -1,0 +1,123 @@
+[
+    {
+      "Name": "Maxwell Food Centre",
+      "Address": "1 Kadayanallur Street, Singapore 069184",
+      "Description": "Located in Tanjong Pagar, this iconic centre is home to the famed Tian Tian Hainanese Chicken Rice and offers a plethora of local delights.",
+      "Coordinates": [1.2803, 103.8445]
+    },
+    {
+      "Name": "Chinatown Complex Market & Food Centre",
+      "Address": "335 Smith Street, Singapore 050335",
+      "Description": "The largest hawker centre in Singapore, boasting over 260 stalls, including the Michelin-starred Hawker Chan and the renowned Ann Chin Popiah.",
+      "Coordinates": [1.2838, 103.8436]
+    },
+    {
+      "Name": "Amoy Street Food Centre",
+      "Address": "7 Maxwell Road, Singapore 069111",
+      "Description": "Situated in the Central Business District, it's a lunchtime haven featuring numerous stalls recognized by the Michelin Guide.",
+      "Coordinates": [1.2794, 103.8462]
+    },
+    {
+      "Name": "Old Airport Road Food Centre",
+      "Address": "51 Old Airport Road, Singapore 390051",
+      "Description": "A historic centre with over 150 stalls, known for its diverse offerings like char siew rice and durian chendol.",
+      "Coordinates": [1.3111, 103.8850]
+    },
+    {
+      "Name": "Adam Road Food Centre",
+      "Address": "2 Adam Road, Singapore 289876",
+      "Description": "Famous for Selera Rasa Nasi Lemak, a dish so esteemed that it has been served to visiting dignitaries.",
+      "Coordinates": [1.3241, 103.8141]
+    },
+    {
+      "Name": "Chomp Chomp Food Centre",
+      "Address": "20 Kensington Park Road, Singapore 557269",
+      "Description": "A Serangoon Gardens favorite, celebrated for its hokkien mee and barbecued seafood.",
+      "Coordinates": [1.3640, 103.8663]
+    },
+    {
+      "Name": "Serangoon Garden Market",
+      "Address": "49A Serangoon Garden Way, Singapore 555945",
+      "Description": "Voted as the Favourite Hawker Centre in 2024, it houses popular stalls like Garden Street Kway Chap and Seng Kee Mushroom Minced Meat Noodle.",
+      "Coordinates": [1.3697, 103.8690]
+    },
+    {
+      "Name": "Lau Pa Sat",
+      "Address": "18 Raffles Quay, Singapore 048582",
+      "Description": "A historic market turned hawker centre, renowned for its satay street that comes alive in the evenings.",
+      "Coordinates": [1.2806, 103.8504]
+    },
+    {
+      "Name": "Toa Payoh West Market & Food Centre",
+      "Address": "127 Lorong 1 Toa Payoh, Singapore 310127",
+      "Description": "A local gem where stalls like Come Daily Fried Hokkien Prawn Mee draw long queues.",
+      "Coordinates": [1.3354, 103.8497]
+    },
+    {
+      "Name": "Kovan 209 Market & Food Centre",
+      "Address": "209 Hougang Street 21, Singapore 530209",
+      "Description": "Known for its nostalgic dishes, offering a taste of traditional Singaporean flavors.",
+      "Coordinates": [1.3592, 103.8840]
+    },
+    {
+      "Name": "Ghim Moh Market & Food Centre",
+      "Address": "20 Ghim Moh Road, Singapore 270020",
+      "Description": "A beloved spot among locals, Ghim Moh offers delights like Sungei Road-style char kway teow, gravy-filled hor fun, and traditional snacks such as chwee kueh and chee cheong fun.",
+      "Coordinates": [1.3109, 103.7878]
+    },
+    {
+      "Name": "Tekka Centre",
+      "Address": "665 Buffalo Road, Singapore 210665",
+      "Description": "Situated in Little India, Tekka Centre is a haven for Indian and South Asian cuisines. Notable stalls include Allauddin's Briyani and Haji Johan Indian Muslim Food.",
+      "Coordinates": [1.3062, 103.8508]
+    },
+    {
+      "Name": "Redhill Food Centre",
+      "Address": "85 Redhill Lane, Singapore 150085",
+      "Description": "Known for its early morning offerings, Redhill boasts stalls like Seng Heng, famous for braised duck noodles, and Jia Xiang Mee Siam.",
+      "Coordinates": [1.2873, 103.8183]
+    },
+    {
+      "Name": "Bedok Interchange Hawker Centre",
+      "Address": "208B New Upper Changi Road, Singapore 462208",
+      "Description": "A bustling hub in the east, Bedok Interchange features stalls like Inspirasi (mee rebus, soto ayam) and Fatt Soon Kueh (soon kueh dumplings).",
+      "Coordinates": [1.3247, 103.9306]
+    },
+    {
+      "Name": "Mei Ling Market & Food Centre",
+      "Address": "159 Mei Chin Road, Singapore 140159",
+      "Description": "A hidden gem, home to Lao Jie Fang (HK-style beef brisket noodles) and Hup Kee Teochew Fishball Noodles.",
+      "Coordinates": [1.2933, 103.8028]
+    },
+    {
+      "Name": "Whampoa Hawker Centre",
+      "Address": "91 Whampoa Drive, Singapore 320091",
+      "Description": "Located in a cozy neighborhood, Whampoa offers crispy carrot cake and nasi lemak that draws long queues.",
+      "Coordinates": [1.3240, 103.8570]
+    },
+    {
+      "Name": "Tiong Bahru Market & Food Centre",
+      "Address": "30 Seng Poh Road, Singapore 168898",
+      "Description": "A blend of heritage and modernity, Tiong Bahru is famed for Jian Bo Shui Kueh's chwee kueh and 178 Lor Mee's hearty lor mee.",
+      "Coordinates": [1.2840, 103.8300]
+    },
+    {
+      "Name": "Golden Mile Food Centre",
+      "Address": "505 Beach Road, Singapore 199583",
+      "Description": "A multi-level hawker centre offering local and international cuisines, including Thai and Vietnamese dishes.",
+      "Coordinates": [1.3020, 103.8630]
+    },
+    {
+      "Name": "East Coast Lagoon Food Village",
+      "Address": "1220 East Coast Parkway, Singapore 468960",
+      "Description": "A seaside hawker centre perfect for alfresco dining, known for its BBQ seafood, satay, and grilled delights.",
+      "Coordinates": [1.3080, 103.9330]
+    },
+    {
+      "Name": "Geylang Serai Market",
+      "Address": "1 Geylang Serai, Singapore 402001",
+      "Description": "A vibrant centre reflecting Malay culture, offering dishes like nasi padang, rendang, and traditional desserts like putu piring.",
+      "Coordinates": [1.3190, 103.8930]
+    }
+  ]
+  

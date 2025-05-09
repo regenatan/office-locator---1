@@ -1,24 +1,32 @@
-
-body {
-    margin: 0;
-    display: flex;
+@media (max-width: 767.98px) {
+  /* Remove labels in mobile */
+  label {
+    display: none !important;
   }
 
-  #sidebar {
-    width: 250px;
-    padding: 10px;
-    background-color: #f4f4f4;
-    border-right: 1px solid #ccc;
-    font-family: Arial, sans-serif;
+  /* Stack controls more compactly */
+  .custom-control-panel .row {
+    flex-wrap: wrap;
   }
 
-  #map {
-    height: 100vh;
-    flex: 1;
+  .custom-control-panel .col-md-auto {
+    flex: 0 0 48%;
+    max-width: 48%;
+    margin-bottom: 10px;
   }
 
-  select {
+  /* Make buttons share a row in mobile */
+  #toggle-hawkers, #clear-map {
     width: 100%;
-    padding: 8px;
   }
+
+  /* Ensure full-height map on mobile */
+  #map {
+    height: 100vh !important;
+  }
+
+  .custom-control-panel {
+    padding: 10px;
+  }
+}
 
